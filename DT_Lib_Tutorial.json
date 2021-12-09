@@ -1,0 +1,122 @@
+[
+	{
+		"Name": "DFQ1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_01.biejiaowodafenqi_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_01_Montage.biejiaowodafenqi_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_01_M_Emote.biejiaowodafenqi_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_01_F_Emote.biejiaowodafenqi_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_01.biejiaowodafenqi_01'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_02.biejiaowodafenqi_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_02_Montage.biejiaowodafenqi_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_02_M_Emote.biejiaowodafenqi_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_02_F_Emote.biejiaowodafenqi_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_02.biejiaowodafenqi_02'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_03.biejiaowodafenqi_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_03_Montage.biejiaowodafenqi_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_03_M_Emote.biejiaowodafenqi_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_03_F_Emote.biejiaowodafenqi_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_03.biejiaowodafenqi_03'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_04.biejiaowodafenqi_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_04_Montage.biejiaowodafenqi_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_04_M_Emote.biejiaowodafenqi_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_04_F_Emote.biejiaowodafenqi_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_04.biejiaowodafenqi_04'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_05.biejiaowodafenqi_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_05_Montage.biejiaowodafenqi_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_05_M_Emote.biejiaowodafenqi_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_05_F_Emote.biejiaowodafenqi_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_05.biejiaowodafenqi_05'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_06.biejiaowodafenqi_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_06_Montage.biejiaowodafenqi_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_06_M_Emote.biejiaowodafenqi_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_06_F_Emote.biejiaowodafenqi_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_06.biejiaowodafenqi_06'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_07.biejiaowodafenqi_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_07_Montage.biejiaowodafenqi_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_07_M_Emote.biejiaowodafenqi_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_07_F_Emote.biejiaowodafenqi_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_07.biejiaowodafenqi_07'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_08.biejiaowodafenqi_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_08_Montage.biejiaowodafenqi_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_08_M_Emote.biejiaowodafenqi_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_08_F_Emote.biejiaowodafenqi_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_08.biejiaowodafenqi_08'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_09.biejiaowodafenqi_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_09_Montage.biejiaowodafenqi_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_09_M_Emote.biejiaowodafenqi_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_09_F_Emote.biejiaowodafenqi_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_09.biejiaowodafenqi_09'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_10.biejiaowodafenqi_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_10_Montage.biejiaowodafenqi_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_10_M_Emote.biejiaowodafenqi_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_10_F_Emote.biejiaowodafenqi_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_10.biejiaowodafenqi_10'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_11.biejiaowodafenqi_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_11_Montage.biejiaowodafenqi_11_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_11_M_Emote.biejiaowodafenqi_11_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_11_F_Emote.biejiaowodafenqi_11_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_11.biejiaowodafenqi_11'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ12",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_12.biejiaowodafenqi_12'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_12_Montage.biejiaowodafenqi_12_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_12_M_Emote.biejiaowodafenqi_12_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_12_F_Emote.biejiaowodafenqi_12_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_12.biejiaowodafenqi_12'",
+		"BarCount": 4,
+		"BPM": 170
+	}
+]

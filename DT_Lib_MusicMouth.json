@@ -1,0 +1,222 @@
+[
+	{
+		"Name": "ASAP",
+		"M_MouthAni": "None",
+		"F_MouthAni": "None"
+	},
+	{
+		"Name": "LightWave",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Dongganguangbo_01_M_Mouthshape.A_Dongganguangbo_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Dongganguangbo_01_F_Mouthshape.A_Dongganguangbo_01_F_Mouthshape'"
+	},
+	{
+		"Name": "MoonlightandMole",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Baiyueguangyuzhushazhi_01_M_Mouthshape.A_Baiyueguangyuzhushazhi_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Baiyueguangyuzhushazhi_01_F_Mouthshape.A_Baiyueguangyuzhushazhi_01_F_Mouthshape'"
+	},
+	{
+		"Name": "105Degrees",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Reai105dudeni_01_M_Mouthshape.A_Reai105dudeni_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Reai105dudeni_01_F_Mouthshape.A_Reai105dudeni_01_F_Mouthshape'"
+	},
+	{
+		"Name": "TheDreamOfFairyTales",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Zhenbiantonghua_01_M_Mouthshape.A_Zhenbiantonghua_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_zhenbiantonghua_01_F_Mouthshape.A_zhenbiantonghua_01_F_Mouthshape'"
+	},
+	{
+		"Name": "GetLost",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Lunxian_01_M_Mouthshape.A_Lunxian_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Lunxian_01_F_Mouthshape.A_Lunxian_01_F_Mouthshape'"
+	},
+	{
+		"Name": "NewBoy",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_NewBoy_01_M_Mouthshape.A_NewBoy_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_NewBoy_01_F_Mouthshape.A_NewBoy_01_F_Mouthshape'"
+	},
+	{
+		"Name": "SpeedDream",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Jisumengxiang_01_M_Mouthshape.A_Jisumengxiang_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Jisumengxiang_01_F_Mouthshape.A_Jisumengxiang_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Brave",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Xiao_01_M_Mouthshape.A_Xiao_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Xiao_01_F_Mouthshape.A_Xiao_01_F_Mouthshape'"
+	},
+	{
+		"Name": "TheCure",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Jieyao_01_M_Mouthshape.A_Jieyao_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Jieyao_01_F_Mouthshape.A_Jieyao_01_F_Mouthshape'"
+	},
+	{
+		"Name": "InfiniteSpeed",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Zhishengwuxiansu_01_M_Mouthshape.A_Zhishengwuxiansu_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Zhishengwuxiansu_01_F_Mouthshape.A_Zhishengwuxiansu_01_F_Mouthshape'"
+	},
+	{
+		"Name": "InTheFog",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Wuli_01_M_Mouthshape.A_Wuli_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Wuli_01_F_Mouthshape.A_Wuli_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Power",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_PowerInYourSoul_01_M_Mouthshape.A_PowerInYourSoul_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_PowerInYourSoul_01_F_Mouthshape.A_PowerInYourSoul_01_F_Mouthshape'"
+	},
+	{
+		"Name": "GoWithYou",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Yunitongxing_01_M_Mouthshape.A_Yunitongxing_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Yunitongxing_01_F_Mouthshape.A_Yunitongxing_01_F_Mouthshape'"
+	},
+	{
+		"Name": "StartWholeheartedly",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Quanxinchufa_01_M_Mouthshape.A_Quanxinchufa_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Quanxinchufa_01_F_Mouthshape.A_Quanxinchufa_01_F_Mouthshape'"
+	},
+	{
+		"Name": "BeWithYou",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Henizaiyiqi_01_M_Mouthshape.A_Henizaiyiqi_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Henizaiyiqi_01_F_Mouthshape.A_Henizaiyiqi_01_F_Mouthshape'"
+	},
+	{
+		"Name": "HeartSoul",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_HeartSoul_01_M_Mouthshape.A_HeartSoul_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_HeartSoul_01_F_Mouthshape.A_HeartSoul_01_F_Mouthshape'"
+	},
+	{
+		"Name": "RememberOurSummer",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_RememberOurSummer_01_M_Mouthshape.A_RememberOurSummer_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_RememberOurSummer_01_F_Mouthshape.A_RememberOurSummer_01_F_Mouthshape'"
+	},
+	{
+		"Name": "LeaveMeAlone",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Yaoniguan_01_M_Mouthshape.A_Yaoniguan_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Yaoniguan_01_F_Mouthshape.A_Yaoniguan_01_F_Mouthshape'"
+	},
+	{
+		"Name": "CleanUp",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Qingkong_01_M_Mouthshape.A_Qingkong_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Qingkong_01_F_Mouthshape.A_Qingkong_01_F_Mouthshape'"
+	},
+	{
+		"Name": "PickUpDreams",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Shiguangmengxiang_01_M_Mouthshape.A_Shiguangmengxiang_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Shiguangmengxiang_01_F_Mouthshape.A_Shiguangmengxiang_01_F_Mouthshape'"
+	},
+	{
+		"Name": "WouldYouDance",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Niyaotiaowuma_01_M_Mouthshape.A_Niyaotiaowuma_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Niyaotiaowuma_01_F_Mouthshape.A_Niyaotiaowuma_01_F_Mouthshape'"
+	},
+	{
+		"Name": "EndlessAdventure",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Wujindemaoxian_01_M_Mouthshape.A_Wujindemaoxian_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Wujindemaoxian_01_F_Mouthshape.A_Wujindemaoxian_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Amigo",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_JiayouAMIGO_01_M_Mouthshape.A_JiayouAMIGO_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_JiayouAMIGO_01_F_Mouthshape.A_JiayouAMIGO_01_F_Mouthshape'"
+	},
+	{
+		"Name": "FearlessWaves",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Bujulang_01_M_Mouthshape.A_Bujulang_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Bujulang_01_F_Mouthshape.A_Bujulang_01_F_Mouthshape'"
+	},
+	{
+		"Name": "WakeMeUp",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Wakemeup_01_M_Mouthshape.A_Wakemeup_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Wakemeup_01_F_Mouthshape.A_Wakemeup_01_F_Mouthshape'"
+	},
+	{
+		"Name": "IWontStop",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_IWONTSTOP_01_M_Mouthshape.A_IWONTSTOP_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_IWONTSTOP_01_F_Mouthshape.A_IWONTSTOP_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Reunion",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Tuantuanyuanyuan_01_M_Mouthshape.A_Tuantuanyuanyuan_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Tuantuanyuanyuan_01_F_Mouthshape.A_Tuantuanyuanyuan_01_F_Mouthshape'"
+	},
+	{
+		"Name": "MoneyWish",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Gongxifacaicai_01_M_Mouthshape.A_Gongxifacaicai_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Gongxifacaicai_01_F_Mouthshape.A_Gongxifacaicai_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Calories",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Kaluli_01_M_Mouthshape.A_Kaluli_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Kaluli_01_F_Mouthshape.A_Kaluli_01_F_Mouthshape'"
+	},
+	{
+		"Name": "TheFirstDay",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Diyitian_01_M_Mouthshape.A_Diyitian_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Diyitian_01_F_Mouthshape.A_Diyitian_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Princess",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Wangfei_01_M_Mouthshape.A_Wangfei_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Wangfei_01_F_Mouthshape.A_Wangfei_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Sheidoubielinse",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_sheidoubielinse_01_M_Mouthshape.A_sheidoubielinse_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_sheidoubielinse_01_F_Mouthshape.A_sheidoubielinse_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Xihuanni",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_xihuanni_01_M_Mouthshape.A_xihuanni_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_xihuanni_01_F_Mouthshape.A_xihuanni_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Chuangzao101",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_chuangzao101_01_M_Mouthshape.A_chuangzao101_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_chuangzao101_01_F_Mouthshape.A_chuangzao101_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Nizuizuizuizhongyao",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_nizuizuizuizhongyao_01_M_Mouthshape.A_nizuizuizuizhongyao_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_nizuizuizuizhongyao_01_F_Mouthshape.A_nizuizuizuizhongyao_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Womenyiqichuang",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_womenyiqichuang_01_M_Mouthshape.A_womenyiqichuang_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_womenyiqichuang_01_F_Mouthshape.A_womenyiqichuang_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Woguanni",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_woguani_01_M_Mouthshape.A_woguani_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_woguani_01_F_Mouthshape.A_woguani_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Nizhan",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_nizhan_01_M_Mouthshape.A_nizhan_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_nizhan_01_F_Mouthshape.A_nizhan_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Fangkong",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Fangkong_01_M_Mouthshape.A_Fangkong_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Fangkong_01_F_Mouthshape.A_Fangkong_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Nideyanjingxiangxingxing",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_nideyanjingxiangxingxing_01_M_Mouthshape.A_nideyanjingxiangxingxing_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_nideyanjingxiangxingxing_01_F_Mouthshape.A_nideyanjingxiangxingxing_01_F_Mouthshape'"
+	},
+	{
+		"Name": "Qingchunbudayang",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_qingchunbudayang_01_M_Mouthshape_Emote.A_qingchunbudayang_01_M_Mouthshape_Emote'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_qingchunbudayang_01_F_Mouthshape_Emote.A_qingchunbudayang_01_F_Mouthshape_Emote'"
+	},
+	{
+		"Name": "Dainiqulvxing",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_dainiqulvxing_01_M_Mouthshape_Emote.A_dainiqulvxing_01_M_Mouthshape_Emote'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_dainiqulvxing_02_F_Mouthshape_Emote.A_dainiqulvxing_02_F_Mouthshape_Emote'"
+	},
+	{
+		"Name": "Xiashan",
+		"M_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_M/A_Xiashan_01_M_Mouthshape.A_Xiashan_01_M_Mouthshape'",
+		"F_MouthAni": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Mouthshape/Mouthshape_F/A_Xiashan_01_F_Mouthshape.A_Xiashan_01_F_Mouthshape'"
+	}
+]

@@ -1,0 +1,2182 @@
+[
+	{
+		"Name": "PWF1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_01.PlayingwithFire_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_01_Montage.PlayingwithFire_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_01_M_Emote.PlayingwithFire_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_01_F_Emote.PlayingwithFire_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_1.PWF_1'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_02.PlayingwithFire_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_02_Montage.PlayingwithFire_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_02_M_Emote.PlayingwithFire_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_02_F_Emote.PlayingwithFire_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_2.PWF_2'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_03.PlayingwithFire_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_03_Montage.PlayingwithFire_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_03_M_Emote.PlayingwithFire_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_03_F_Emote.PlayingwithFire_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_3.PWF_3'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_04.PlayingwithFire_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_04_Montage.PlayingwithFire_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_04_M_Emote.PlayingwithFire_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_04_F_Emote.PlayingwithFire_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_4.PWF_4'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_05.PlayingwithFire_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_05_Montage.PlayingwithFire_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_05_M_Emote.PlayingwithFire_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_05_F_Emote.PlayingwithFire_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_5.PWF_5'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_06.PlayingwithFire_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_06_Montage.PlayingwithFire_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_06_M_Emote.PlayingwithFire_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_06_F_Emote.PlayingwithFire_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_6.PWF_6'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "PWF7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_07.PlayingwithFire_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/PlayingwithFire_07_Montage.PlayingwithFire_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/M_Face_Emote/PlayingwithFire_07_M_Emote.PlayingwithFire_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/PlayingwithFire/F_Face_Emote/PlayingwithFire_07_F_Emote.PlayingwithFire_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/PlayerWithFire_Special/PWF_7.PWF_7'",
+		"BarCount": 4,
+		"BPM": 97
+	},
+	{
+		"Name": "WorthIt1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_01.Worthit_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_01_Montage.Worthit_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_01_M_Emote.Worthit_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_01_F_Emote.Worthit_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/WorthIt_01.WorthIt_01'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_02.Worthit_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_02_Montage.Worthit_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_02_M_Emote.Worthit_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_02_F_Emote.Worthit_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/WorthIt_02.WorthIt_02'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_03.Worthit_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_03_Montage.Worthit_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_03_M_Emote.Worthit_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_03_F_Emote.Worthit_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/WorthIt_03.WorthIt_03'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_04.Worthit_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_04_Montage.Worthit_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_04_M_Emote.Worthit_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_04_F_Emote.Worthit_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/WorthIt_04.WorthIt_04'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_05.Worthit_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_05_Montage.Worthit_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_05_M_Emote.Worthit_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_05_F_Emote.Worthit_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/Worthit_05.Worthit_05'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_06.Worthit_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_06_Montage.Worthit_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_06_M_Emote.Worthit_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_06_F_Emote.Worthit_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/Worthit_06.Worthit_06'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_07.Worthit_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_07_Montage.Worthit_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_07_M_Emote.Worthit_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_07_F_Emote.Worthit_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/Worthit_07.Worthit_07'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "WorthIt8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_08.Worthit_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/Worthit_08_Montage.Worthit_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/M_Face_Emote/Worthit_08_M_Emote.Worthit_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Worthit/F_Face_Emote/Worthit_08_F_Emote.Worthit_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/WorthIt/Worthit_08.Worthit_08'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "GoodTime1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_01.GoodTime_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_01_Montage.GoodTime_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_01_M_Emote.GoodTime_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_01_F_Emote.GoodTime_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_1.GT_1'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_02.GoodTime_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_02_Montage.GoodTime_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_02_M_Emote.GoodTime_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_02_F_Emote.GoodTime_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_2.GT_2'",
+		"BarCount": 8,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_03.GoodTime_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_03_Montage.GoodTime_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_03_M_Emote.GoodTime_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_03_F_Emote.GoodTime_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_3.GT_3'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_04.GoodTime_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_04_Montage.GoodTime_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_04_M_Emote.GoodTime_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_04_F_Emote.GoodTime_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_4.GT_4'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_05.GoodTime_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_05_Montage.GoodTime_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_05_M_Emote.GoodTime_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_05_F_Emote.GoodTime_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_5.GT_5'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_06.GoodTime_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_06_Montage.GoodTime_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_06_M_Emote.GoodTime_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_06_F_Emote.GoodTime_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_6.GT_6'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "GoodTime7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_07.GoodTime_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/GoodTime_07_Montage.GoodTime_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/M_Face_Emote/GoodTime_07_M_Emote.GoodTime_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GoodTime/F_Face_Emote/GoodTime_07_F_Emote.GoodTime_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GoodTime/GT_7.GT_7'",
+		"BarCount": 4,
+		"BPM": 126
+	},
+	{
+		"Name": "Samsara1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_01.Samsara_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_01_Montage.Samsara_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/M_Face_Emote/Samsara_01_M_Emote.Samsara_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/F_Face_Emote/Samsara_01_F_Emote.Samsara_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Samsara/Samsara_1.Samsara_1'",
+		"BarCount": 4,
+		"BPM": 109
+	},
+	{
+		"Name": "Samsara2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_02.Samsara_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_02_Montage.Samsara_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/M_Face_Emote/Samsara_02_M_Emote.Samsara_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/F_Face_Emote/Samsara_02_F_Emote.Samsara_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Samsara/Samsara_2.Samsara_2'",
+		"BarCount": 4,
+		"BPM": 109
+	},
+	{
+		"Name": "Samsara3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_03.Samsara_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_03_Montage.Samsara_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/M_Face_Emote/Samsara_03_M_Emote.Samsara_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/F_Face_Emote/Samsara_03_F_Emote.Samsara_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Samsara/Samsara_3.Samsara_3'",
+		"BarCount": 4,
+		"BPM": 109
+	},
+	{
+		"Name": "Samsara4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_04.Samsara_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/Samsara_04_Montage.Samsara_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/M_Face_Emote/Samsara_04_M_Emote.Samsara_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Samsara/F_Face_Emote/Samsara_04_F_Emote.Samsara_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Samsara/Samsara_4.Samsara_4'",
+		"BarCount": 4,
+		"BPM": 109
+	},
+	{
+		"Name": "YXQC1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_01.YXQC_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_01_Montage.YXQC_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/M_Face_Emote/YXQC_01_M_Emote.YXQC_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/F_Face_Emote/YXQC_01_F_Emote.YXQC_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YXQC/YXQC_01.YXQC_01'",
+		"BarCount": 4,
+		"BPM": 88
+	},
+	{
+		"Name": "YXQC2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_02.YXQC_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_02_Montage.YXQC_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/M_Face_Emote/YXQC_02_M_Emote.YXQC_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/F_Face_Emote/YXQC_02_F_Emote.YXQC_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YXQC/YXQC_02.YXQC_02'",
+		"BarCount": 4,
+		"BPM": 88
+	},
+	{
+		"Name": "YXQC3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_03.YXQC_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_03_Montage.YXQC_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/M_Face_Emote/YXQC_03_M_Emote.YXQC_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/F_Face_Emote/YXQC_03_F_Emote.YXQC_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YXQC/YXQC_3.YXQC_3'",
+		"BarCount": 4,
+		"BPM": 88
+	},
+	{
+		"Name": "YXQC4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_04.YXQC_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/YXQC_04_Montage.YXQC_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/M_Face_Emote/YXQC_04_M_Emote.YXQC_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YXQC/F_Face_Emote/YXQC_04_F_Emote.YXQC_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YXQC/YXQC_04.YXQC_04'",
+		"BarCount": 4,
+		"BPM": 88
+	},
+	{
+		"Name": "7Rings1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_01.7Rings_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_01_Montage.7Rings_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_01_M_Emote.7Rings_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_01_F_Emote.7Rings_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_01.7Rings_01'",
+		"BarCount": 8,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_02.7Rings_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_02_Montage.7Rings_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_02_M_Emote.7Rings_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_02_F_Emote.7Rings_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_02.7Rings_02'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_03.7Rings_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_03_Montage.7Rings_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_03_M_Emote.7Rings_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_03_F_Emote.7Rings_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_03.7Rings_03'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_04.7Rings_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_04_Montage.7Rings_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_04_M_Emote.7Rings_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_04_F_Emote.7Rings_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_04.7Rings_04'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_05.7Rings_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_05_Montage.7Rings_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_05_M_Emote.7Rings_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_05_F_Emote.7Rings_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_05.7Rings_05'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_06.7Rings_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_06_Montage.7Rings_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_06_M_Emote.7Rings_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_06_F_Emote.7Rings_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_06.7Rings_06'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "7Rings7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_07.7Rings_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/7Rings_07_Montage.7Rings_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/M_Face_Emote/7Rings_07_M_Emote.7Rings_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/7Rings/F_Face_Emote/7Rings_07_F_Emote.7Rings_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/7Ring/7Rings_07.7Rings_07'",
+		"BarCount": 4,
+		"BPM": 140
+	},
+	{
+		"Name": "Adios1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_01.adios_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_01_Montage.adios_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_01_M_Emote.adios_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_01_F_Emote.adios_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_01.Adios_01'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_02.adios_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_02_Montage.adios_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_02_M_Emote.adios_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_02_F_Emote.adios_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_02.Adios_02'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_03.adios_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_03_Montage.adios_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_03_M_Emote.adios_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_03_F_Emote.adios_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_03.Adios_03'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_04.adios_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_04_Montage.adios_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_04_M_Emote.adios_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_04_F_Emote.adios_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_04.Adios_04'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_05.adios_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_05_Montage.adios_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_05_M_Emote.adios_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_05_F_Emote.adios_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_05.Adios_05'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_06.adios_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_06_Montage.adios_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_06_M_Emote.adios_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_06_F_Emote.adios_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_06.Adios_06'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_07.adios_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_07_Montage.adios_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_07_M_Emote.adios_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_07_F_Emote.adios_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_07.Adios_07'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_08.adios_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_08_Montage.adios_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_08_M_Emote.adios_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_08_F_Emote.adios_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_08.Adios_08'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_09.adios_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_09_Montage.adios_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_09_M_Emote.adios_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_09_F_Emote.adios_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_09.Adios_09'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_10.adios_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_10_Montage.adios_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_10_M_Emote.adios_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_10_F_Emote.adios_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_10.Adios_10'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "Adios11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_11.adios_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Adios/adios_11_Montage.adios_11_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/M_Face_Emote/adios_11_M_Emote.adios_11_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Adios/F_Face_Emote/adios_11_F_Emote.adios_11_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Adios/Adios_11.Adios_11'",
+		"BarCount": 4,
+		"BPM": 128.69999694824219
+	},
+	{
+		"Name": "GetItOut1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/GETITOUT_01.GETITOUT_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/GETITOUT_01_Montage.GETITOUT_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/M_Face_Emote/GETITOUT_01_M_Emote.GETITOUT_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/F_Face_Emote/GETITOUT_01_F_Emote.GETITOUT_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GetItOut/GO_New_01.GO_New_01'",
+		"BarCount": 4,
+		"BPM": 108
+	},
+	{
+		"Name": "GetItOut2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/GETITOUT_02.GETITOUT_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/GETITOUT_02_Montage.GETITOUT_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/M_Face_Emote/GETITOUT_02_M_Emote.GETITOUT_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/GETITOUT/F_Face_Emote/GETITOUT_02_F_Emote.GETITOUT_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/GetItOut/GO_New_02.GO_New_02'",
+		"BarCount": 4,
+		"BPM": 108
+	},
+	{
+		"Name": "Sayso1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_01.sayso_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_01_Montage.sayso_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_01_M_Emote.SAYSO_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_01_F_Emote.SAYSO_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_01.Sayso_01'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_02.sayso_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_02_Montage.sayso_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_02_M_Emote.SAYSO_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_02_F_Emote.SAYSO_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_02.Sayso_02'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_03.sayso_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_03_Montage.sayso_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_03_M_Emote.SAYSO_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_03_F_Emote.SAYSO_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_03.Sayso_03'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_04.sayso_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_04_Montage.sayso_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_04_M_Emote.SAYSO_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_04_F_Emote.SAYSO_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_04.Sayso_04'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_05.sayso_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_05_Montage.sayso_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_05_M_Emote.SAYSO_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_05_F_Emote.SAYSO_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_05.Sayso_05'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_06.sayso_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_06_Montage.sayso_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_06_M_Emote.SAYSO_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_06_F_Emote.SAYSO_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_06.Sayso_06'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_07.sayso_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_07_Montage.sayso_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_07_M_Emote.SAYSO_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_07_F_Emote.SAYSO_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_07.Sayso_07'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_08.sayso_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_08_Montage.sayso_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_08_M_Emote.SAYSO_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_08_F_Emote.SAYSO_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_08.Sayso_08'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_09.sayso_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_09_Montage.sayso_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_09_M_Emote.SAYSO_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_09_F_Emote.SAYSO_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_09.Sayso_09'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "Sayso10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_10.sayso_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/sayso_10_Montage.sayso_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/M_Face_Emote/SAYSO_10_M_Emote.SAYSO_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Sayso/F_Face_Emote/SAYSO_10_F_Emote.SAYSO_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/Sayso/Sayso_10.Sayso_10'",
+		"BarCount": 4,
+		"BPM": 111
+	},
+	{
+		"Name": "ASAP1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_01.ASAP_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_01_Montage.ASAP_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_01_M_Emote.ASAP_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_01_F_Emote.ASAP_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_01.ASAP_01'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_02.ASAP_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_02_Montage.ASAP_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_02_M_Emote.ASAP_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_02_F_Emote.ASAP_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_02.ASAP_02'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_03.ASAP_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_03_Montage.ASAP_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_03_M_Emote.ASAP_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_03_F_Emote.ASAP_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_03.ASAP_03'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_04.ASAP_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_04_Montage.ASAP_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_04_M_Emote.ASAP_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_04_F_Emote.ASAP_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_04.ASAP_04'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_05.ASAP_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_05_Montage.ASAP_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_05_M_Emote.ASAP_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_05_F_Emote.ASAP_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_05.ASAP_05'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_06.ASAP_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_06_Montage.ASAP_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_06_M_Emote.ASAP_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_06_F_Emote.ASAP_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_06.ASAP_06'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_07.ASAP_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_07_Montage.ASAP_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_07_M_Emote.ASAP_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_07_F_Emote.ASAP_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_07.ASAP_07'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "ASAP8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_08.ASAP_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/ASAP_08_Montage.ASAP_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/M_Face_Emote/ASAP_08_M_Emote.ASAP_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/ASAP/F_Face_Emote/ASAP_08_F_Emote.ASAP_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/ASAP/ASAP_08.ASAP_08'",
+		"BarCount": 4,
+		"BPM": 129
+	},
+	{
+		"Name": "YGZN1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_01.YGZN_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_01_Montage.YGZN_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/M_Face_Emote/YGZN_01_M_Emote.YGZN_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/F_Face_Emote/YGZN_01_F_Emote.YGZN_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YGZN/YGZN_01.YGZN_01'",
+		"BarCount": 4,
+		"BPM": 134
+	},
+	{
+		"Name": "YGZN2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_02.YGZN_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_02_Montage.YGZN_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/M_Face_Emote/YGZN_02_M_Emote.YGZN_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/F_Face_Emote/YGZN_02_F_Emote.YGZN_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YGZN/YGZN_02.YGZN_02'",
+		"BarCount": 4,
+		"BPM": 134
+	},
+	{
+		"Name": "YGZN3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_03.YGZN_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_03_Montage.YGZN_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/M_Face_Emote/YGZN_03_M_Emote.YGZN_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/F_Face_Emote/YGZN_03_F_Emote.YGZN_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YGZN/YGZN_03.YGZN_03'",
+		"BarCount": 4,
+		"BPM": 134
+	},
+	{
+		"Name": "YGZN4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_04.YGZN_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/YGZN_04_Montage.YGZN_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/M_Face_Emote/YGZN_04_M_Emote.YGZN_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/YGZN/F_Face_Emote/YGZN_04_F_Emote.YGZN_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YGZN/YGZN_04.YGZN_04'",
+		"BarCount": 2,
+		"BPM": 134
+	},
+	{
+		"Name": "SDBLS1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_01.SDBLS_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_01_Montage.SDBLS_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_01_M_Emote.SDBLS_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_01_F_Emote.SDBLS_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_01.SDBLS_01'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_02.SDBLS_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_02_Montage.SDBLS_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_02_M_Emote.SDBLS_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_02_F_Emote.SDBLS_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_02.SDBLS_02'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_03.SDBLS_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_03_Montage.SDBLS_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_03_M_Emote.SDBLS_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_03_F_Emote.SDBLS_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_03.SDBLS_03'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_04.SDBLS_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_04_Montage.SDBLS_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_04_M_Emote.SDBLS_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_04_F_Emote.SDBLS_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_04.SDBLS_04'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_05.SDBLS_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_05_Montage.SDBLS_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_05_M_Emote.SDBLS_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_05_F_Emote.SDBLS_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_05.SDBLS_05'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_06.SDBLS_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_06_Montage.SDBLS_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_06_M_Emote.SDBLS_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_06_F_Emote.SDBLS_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_06.SDBLS_06'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_07.SDBLS_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_07_Montage.SDBLS_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_07_M_Emote.SDBLS_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_07_F_Emote.SDBLS_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_07.SDBLS_07'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_08.SDBLS_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_08_Montage.SDBLS_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_08_M_Emote.SDBLS_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_08_F_Emote.SDBLS_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_08.SDBLS_08'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "SDBLS9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_09.SDBLS_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/SDBLS_09_Montage.SDBLS_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/M_Face_Emote/SDBLS_09_M_Emote.SDBLS_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/SDBLS/F_Face_Emote/SDBLS_09_F_Emote.SDBLS_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/SDBLS/SDBLS_09.SDBLS_09'",
+		"BarCount": 8,
+		"BPM": 130
+	},
+	{
+		"Name": "Youmostimportant1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_01.You_most_important_girl_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_01_Montage.You_most_important_girl_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/M_Face_Emote/You_most_important_01_M_Emote.You_most_important_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/F_Face_Emote/You_most_important_01_F_Emote.You_most_important_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YouMostImportant/Youmostimportant_01.Youmostimportant_01'",
+		"BarCount": 4,
+		"BPM": 112
+	},
+	{
+		"Name": "Youmostimportant2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_02.You_most_important_girl_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_02_Montage.You_most_important_girl_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/M_Face_Emote/You_most_important_02_M_Emote.You_most_important_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/F_Face_Emote/You_most_important_02_F_Emote.You_most_important_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YouMostImportant/Youmostimportant_02.Youmostimportant_02'",
+		"BarCount": 4,
+		"BPM": 112
+	},
+	{
+		"Name": "Youmostimportant3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_03.You_most_important_girl_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_03_Montage.You_most_important_girl_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/M_Face_Emote/You_most_important_03_M_Emote.You_most_important_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/F_Face_Emote/You_most_important_03_F_Emote.You_most_important_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YouMostImportant/Youmostimportant_03.Youmostimportant_03'",
+		"BarCount": 4,
+		"BPM": 112
+	},
+	{
+		"Name": "Youmostimportant4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_04.You_most_important_girl_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/You_most_important_girl_04_Montage.You_most_important_girl_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/M_Face_Emote/You_most_important_04_M_Emote.You_most_important_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Youmostimportant/F_Face_Emote/You_most_important_04_F_Emote.You_most_important_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/YouMostImportant/Youmostimportant_04.Youmostimportant_04'",
+		"BarCount": 4,
+		"BPM": 112
+	},
+	{
+		"Name": "BYGYZSZ1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_01.baiyueguang_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_01_Montage.baiyueguang_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_01_M_Emote.baiyueguang_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_01_F_Emote.baiyueguang_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_01.BYGYZSZ_01'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "BYGYZSZ2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_02.baiyueguang_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_02_Montage.baiyueguang_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_02_M_Emote.baiyueguang_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_02_F_Emote.baiyueguang_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_02.BYGYZSZ_02'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "BYGYZSZ3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_03.baiyueguang_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_03_Montage.baiyueguang_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_03_M_Emote.baiyueguang_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_03_F_Emote.baiyueguang_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_03.BYGYZSZ_03'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "BYGYZSZ4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_04.baiyueguang_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_04_Montage.baiyueguang_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_04_M_Emote.baiyueguang_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_04_F_Emote.baiyueguang_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_04.BYGYZSZ_04'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "BYGYZSZ5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_05.baiyueguang_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_05_Montage.baiyueguang_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_05_M_Emote.baiyueguang_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_05_F_Emote.baiyueguang_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_05.BYGYZSZ_05'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "BYGYZSZ6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_06.baiyueguang_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/baiyueguang_06_Montage.baiyueguang_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/M_Face_Emote/baiyueguang_06_M_Emote.baiyueguang_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BYGYZSZ/F_Face_Emote/baiyueguang_06_F_Emote.baiyueguang_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/BYGYZSZ/BYGYZSZ_06.BYGYZSZ_06'",
+		"BarCount": 4,
+		"BPM": 90
+	},
+	{
+		"Name": "shuixingji1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_01.shuixingji_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_01_Montage.shuixingji_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_01_M_Emote.shuixingji_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_01_F_Emote.shuixingji_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_01.shuixingji_01'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "shuixingji2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_02.shuixingji_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_02_Montage.shuixingji_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_02_M_Emote.shuixingji_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_02_F_Emote.shuixingji_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_02.shuixingji_02'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "shuixingji3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_03.shuixingji_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_03_Montage.shuixingji_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_03_M_Emote.shuixingji_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_03_F_Emote.shuixingji_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_03.shuixingji_03'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "shuixingji4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_04.shuixingji_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_04_Montage.shuixingji_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_04_M_Emote.shuixingji_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_04_F_Emote.shuixingji_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_04.shuixingji_04'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "shuixingji5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_05.shuixingji_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_05_Montage.shuixingji_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_05_M_Emote.shuixingji_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_05_F_Emote.shuixingji_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_05.shuixingji_05'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "shuixingji6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_06.shuixingji_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/shuixingji_06_Montage.shuixingji_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/M_Face_Emote/shuixingji_06_M_Emote.shuixingji_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/shuixingji/F_Face_Emote/shuixingji_06_F_Emote.shuixingji_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/shuixingji/shuixingji_06.shuixingji_06'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "xiao1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_01.xiao_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_01_Montage.xiao_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/M_Face_Emote/xiao_01_M_Emote.xiao_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/F_Face_Emote/xiao_01_F_Emote.xiao_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiao/xiao_01.xiao_01'",
+		"BarCount": 4,
+		"BPM": 103
+	},
+	{
+		"Name": "xiao2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_02.xiao_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_02_Montage.xiao_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/M_Face_Emote/xiao_02_M_Emote.xiao_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/F_Face_Emote/xiao_02_F_Emote.xiao_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiao/xiao_02.xiao_02'",
+		"BarCount": 4,
+		"BPM": 103
+	},
+	{
+		"Name": "xiao3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_03.xiao_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_03_Montage.xiao_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/M_Face_Emote/xiao_03_M_Emote.xiao_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/F_Face_Emote/xiao_03_F_Emote.xiao_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiao/xiao_03.xiao_03'",
+		"BarCount": 4,
+		"BPM": 103
+	},
+	{
+		"Name": "xiao4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_04.xiao_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_04_Montage.xiao_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/M_Face_Emote/xiao_04_M_Emote.xiao_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/F_Face_Emote/xiao_04_F_Emote.xiao_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiao/xiao_04.xiao_04'",
+		"BarCount": 4,
+		"BPM": 103
+	},
+	{
+		"Name": "xiao5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_05.xiao_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/xiao_05_Montage.xiao_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/M_Face_Emote/xiao_05_M_Emote.xiao_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/XIAO/F_Face_Emote/xiao_05_F_Emote.xiao_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiao/xiao_05.xiao_05'",
+		"BarCount": 8,
+		"BPM": 103
+	},
+	{
+		"Name": "DFQ1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_01.biejiaowodafenqi_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_01_Montage.biejiaowodafenqi_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_01_M_Emote.biejiaowodafenqi_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_01_F_Emote.biejiaowodafenqi_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_01.biejiaowodafenqi_01'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_02.biejiaowodafenqi_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_02_Montage.biejiaowodafenqi_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_02_M_Emote.biejiaowodafenqi_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_02_F_Emote.biejiaowodafenqi_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_02.biejiaowodafenqi_02'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_03.biejiaowodafenqi_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_03_Montage.biejiaowodafenqi_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_03_M_Emote.biejiaowodafenqi_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_03_F_Emote.biejiaowodafenqi_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_03.biejiaowodafenqi_03'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_04.biejiaowodafenqi_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_04_Montage.biejiaowodafenqi_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_04_M_Emote.biejiaowodafenqi_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_04_F_Emote.biejiaowodafenqi_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_04.biejiaowodafenqi_04'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_05.biejiaowodafenqi_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_05_Montage.biejiaowodafenqi_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_05_M_Emote.biejiaowodafenqi_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_05_F_Emote.biejiaowodafenqi_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_05.biejiaowodafenqi_05'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_06.biejiaowodafenqi_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_06_Montage.biejiaowodafenqi_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_06_M_Emote.biejiaowodafenqi_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_06_F_Emote.biejiaowodafenqi_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_06.biejiaowodafenqi_06'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_07.biejiaowodafenqi_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_07_Montage.biejiaowodafenqi_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_07_M_Emote.biejiaowodafenqi_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_07_F_Emote.biejiaowodafenqi_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_07.biejiaowodafenqi_07'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_08.biejiaowodafenqi_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_08_Montage.biejiaowodafenqi_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_08_M_Emote.biejiaowodafenqi_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_08_F_Emote.biejiaowodafenqi_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_08.biejiaowodafenqi_08'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_09.biejiaowodafenqi_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_09_Montage.biejiaowodafenqi_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_09_M_Emote.biejiaowodafenqi_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_09_F_Emote.biejiaowodafenqi_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_09.biejiaowodafenqi_09'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_10.biejiaowodafenqi_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_10_Montage.biejiaowodafenqi_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_10_M_Emote.biejiaowodafenqi_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_10_F_Emote.biejiaowodafenqi_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_10.biejiaowodafenqi_10'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_11.biejiaowodafenqi_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_11_Montage.biejiaowodafenqi_11_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_11_M_Emote.biejiaowodafenqi_11_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_11_F_Emote.biejiaowodafenqi_11_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_11.biejiaowodafenqi_11'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "DFQ12",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_12.biejiaowodafenqi_12'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/biejiaowodafenqi_12_Montage.biejiaowodafenqi_12_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/M_Face_Emote/biejiaowodafenqi_12_M_Emote.biejiaowodafenqi_12_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/BJWDFQ/F_Face_Emote/biejiaowodafenqi_12_F_Emote.biejiaowodafenqi_12_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/biejiaowodafenqi/biejiaowodafenqi_12.biejiaowodafenqi_12'",
+		"BarCount": 4,
+		"BPM": 170
+	},
+	{
+		"Name": "lunxian1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_01.lunxian_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_01_Montage.lunxian_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/M_Face_Emote/lunxian_01_M_Emote.lunxian_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/F_Face_Emote/lunxian_01_F_Emote.lunxian_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/lunxian/lunxian_01.lunxian_01'",
+		"BarCount": 4,
+		"BPM": 65
+	},
+	{
+		"Name": "lunxian2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_02.lunxian_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_02_Montage.lunxian_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/M_Face_Emote/lunxian_02_M_Emote.lunxian_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/F_Face_Emote/lunxian_02_F_Emote.lunxian_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/lunxian/lunxian_02.lunxian_02'",
+		"BarCount": 4,
+		"BPM": 65
+	},
+	{
+		"Name": "lunxian3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_03.lunxian_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/lunxian_03_Montage.lunxian_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/M_Face_Emote/lunxian_03_M_Emote.lunxian_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/lunxian/F_Face_Emote/lunxian_03_F_Emote.lunxian_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/lunxian/lunxian_03.lunxian_03'",
+		"BarCount": 4,
+		"BPM": 65
+	},
+	{
+		"Name": "zhenbiantonghua1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_01.zhenbiantonghua_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_01_Montage.zhenbiantonghua_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/M_Face_Emote/zhenbiantonghua_01_M_Emote.zhenbiantonghua_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/F_Face_Emote/zhenbiantonghua_01_F_Emote.zhenbiantonghua_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/zhenbiantonghua/zhenbiantonghua_01.zhenbiantonghua_01'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "zhenbiantonghua2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_02.zhenbiantonghua_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_02_Montage.zhenbiantonghua_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/M_Face_Emote/zhenbiantonghua_02_M_Emote.zhenbiantonghua_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/F_Face_Emote/zhenbiantonghua_02_F_Emote.zhenbiantonghua_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/zhenbiantonghua/zhenbiantonghua_02.zhenbiantonghua_02'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "zhenbiantonghua3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_03.zhenbiantonghua_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_03_Montage.zhenbiantonghua_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/M_Face_Emote/zhenbiantonghua_03_M_Emote.zhenbiantonghua_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/F_Face_Emote/zhenbiantonghua_03_F_Emote.zhenbiantonghua_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/zhenbiantonghua/zhenbiantonghua_03.zhenbiantonghua_03'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "zhenbiantonghua4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_04.zhenbiantonghua_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_04_Montage.zhenbiantonghua_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/M_Face_Emote/zhenbiantonghua_04_M_Emote.zhenbiantonghua_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/F_Face_Emote/zhenbiantonghua_04_F_Emote.zhenbiantonghua_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/zhenbiantonghua/zhenbiantonghua_04.zhenbiantonghua_04'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "zhenbiantonghua5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_05.zhenbiantonghua_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/zbth/zhenbiantonghua_05_Montage.zhenbiantonghua_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/M_Face_Emote/zhenbiantonghua_05_M_Emote.zhenbiantonghua_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/zbth/F_Face_Emote/zhenbiantonghua_05_F_Emote.zhenbiantonghua_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/zhenbiantonghua/zhenbiantonghua_05.zhenbiantonghua_05'",
+		"BarCount": 8,
+		"BPM": 70
+	},
+	{
+		"Name": "feiniaohechan1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_01.feiniaohechan_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_01_Montage.feiniaohechan_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/M_Face_Emote/feiniaohechan_01_M_Emote.feiniaohechan_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/F_Face_Emote/feiniaohechan_01_F_Emote.feiniaohechan_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/feiniaohechan/feiniaohechan_01.feiniaohechan_01'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "feiniaohechan2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_02.feiniaohechan_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_02_Montage.feiniaohechan_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/M_Face_Emote/feiniaohechan_02_M_Emote.feiniaohechan_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/F_Face_Emote/feiniaohechan_02_F_Emote.feiniaohechan_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/feiniaohechan/feiniaohechan_02.feiniaohechan_02'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "feiniaohechan3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_03.feiniaohechan_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_03_Montage.feiniaohechan_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/M_Face_Emote/feiniaohechan_03_M_Emote.feiniaohechan_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/F_Face_Emote/feiniaohechan_03_F_Emote.feiniaohechan_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/feiniaohechan/feiniaohechan_03.feiniaohechan_03'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "feiniaohechan4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_04.feiniaohechan_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_04_Montage.feiniaohechan_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/M_Face_Emote/feiniaohechan_04_M_Emote.feiniaohechan_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/F_Face_Emote/feiniaohechan_04_F_Emote.feiniaohechan_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/feiniaohechan/feiniaohechan_04.feiniaohechan_04'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "feiniaohechan5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_05.feiniaohechan_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/feiniaohechan_05_Montage.feiniaohechan_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/M_Face_Emote/feiniaohechan_05_M_Emote.feiniaohechan_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/feiniaohechan/F_Face_Emote/feiniaohechan_05_F_Emote.feiniaohechan_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/feiniaohechan/feiniaohechan_05.feiniaohechan_05'",
+		"BarCount": 8,
+		"BPM": 74
+	},
+	{
+		"Name": "reai105dudeni1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_01.reai105dudeni_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_01_Montage.reai105dudeni_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_01_M_Emote.reai105dudeni_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_01_F_Emote.reai105dudeni_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_01.reaidudeni_01'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_02.reai105dudeni_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_02_Montage.reai105dudeni_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_02_M_Emote.reai105dudeni_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_02_F_Emote.reai105dudeni_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_02.reaidudeni_02'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_03.reai105dudeni_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_03_Montage.reai105dudeni_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_03_M_Emote.reai105dudeni_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_03_F_Emote.reai105dudeni_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_03.reaidudeni_03'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_04.reai105dudeni_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_04_Montage.reai105dudeni_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_04_M_Emote.reai105dudeni_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_04_F_Emote.reai105dudeni_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_04.reaidudeni_04'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_05.reai105dudeni_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_05_Montage.reai105dudeni_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_05_M_Emote.reai105dudeni_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_05_F_Emote.reai105dudeni_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_05.reaidudeni_05'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_06.reai105dudeni_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_06_Montage.reai105dudeni_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_06_M_Emote.reai105dudeni_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_06_F_Emote.reai105dudeni_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_06.reaidudeni_06'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_07.reai105dudeni_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_07_Montage.reai105dudeni_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_07_M_Emote.reai105dudeni_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_07_F_Emote.reai105dudeni_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_07.reaidudeni_07'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_08.reai105dudeni_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_08_Montage.reai105dudeni_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_08_M_Emote.reai105dudeni_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_08_F_Emote.reai105dudeni_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_08.reaidudeni_08'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_09.reai105dudeni_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_09_Montage.reai105dudeni_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_09_M_Emote.reai105dudeni_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_09_F_Emote.reai105dudeni_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_09.reaidudeni_09'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_10.reai105dudeni_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_10_Montage.reai105dudeni_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_10_M_Emote.reai105dudeni_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_10_F_Emote.reai105dudeni_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_10.reaidudeni_10'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_11.reai105dudeni_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_11_Montage.reai105dudeni_11_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_11_M_Emote.reai105dudeni_11_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_11_F_Emote.reai105dudeni_11_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_11.reaidudeni_11'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni12",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_12.reai105dudeni_12'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_12_Montage.reai105dudeni_12_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_12_M_Emote.reai105dudeni_12_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_12_F_Emote.reai105dudeni_12_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_12.reaidudeni_12'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni13",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_13.reai105dudeni_13'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_13_Montage.reai105dudeni_13_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_13_M_Emote.reai105dudeni_13_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_13_F_Emote.reai105dudeni_13_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_13.reaidudeni_13'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "reai105dudeni14",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_14.reai105dudeni_14'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/reai105dudeni_14_Montage.reai105dudeni_14_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/M_Face_Emote/reai105dudeni_14_M_Emote.reai105dudeni_14_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/reai105dudeni/F_Face_Emote/reai105dudeni_14_F_Emote.reai105dudeni_14_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/reaidudeni/reaidudeni_14.reaidudeni_14'",
+		"BarCount": 4,
+		"BPM": 137
+	},
+	{
+		"Name": "wujiazhijie10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_10.wujiazhijie_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_10_Montage.wujiazhijie_10_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_10_M_Emote.wujiazhijie_10_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_10_F_Emote.wujiazhijie_10_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_10.wujiazhijie_10'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_11.wujiazhijie_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_11_Montage.wujiazhijie_11_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_11_M_Emote.wujiazhijie_11_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_11_F_Emote.wujiazhijie_11_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_11.wujiazhijie_11'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie12",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_12.wujiazhijie_12'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_12_Montage.wujiazhijie_12_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_12_M_Emote.wujiazhijie_12_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_12_F_Emote.wujiazhijie_12_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_12.wujiazhijie_12'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie13",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_13.wujiazhijie_13'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_13_Montage.wujiazhijie_13_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_13_M_Emote.wujiazhijie_13_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_13_F_Emote.wujiazhijie_13_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_13.wujiazhijie_13'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie14",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_14.wujiazhijie_14'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_14_Montage.wujiazhijie_14_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_14_M_Emote.wujiazhijie_14_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_14_F_Emote.wujiazhijie_14_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_14.wujiazhijie_14'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_01.wujiazhijie_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_01_Montage.wujiazhijie_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_01_M_Emote.wujiazhijie_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_01_F_Emote.wujiazhijie_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_01.wujiazhijie_01'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_02.wujiazhijie_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_02_Montage.wujiazhijie_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_02_M_Emote.wujiazhijie_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_02_F_Emote.wujiazhijie_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_02.wujiazhijie_02'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_03.wujiazhijie_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_03_Montage.wujiazhijie_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_03_M_Emote.wujiazhijie_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_03_F_Emote.wujiazhijie_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_03.wujiazhijie_03'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_04.wujiazhijie_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_04_Montage.wujiazhijie_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_04_M_Emote.wujiazhijie_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_04_F_Emote.wujiazhijie_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_04.wujiazhijie_04'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_05.wujiazhijie_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_05_Montage.wujiazhijie_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_05_M_Emote.wujiazhijie_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_05_F_Emote.wujiazhijie_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_05.wujiazhijie_05'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_06.wujiazhijie_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_06_Montage.wujiazhijie_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_06_M_Emote.wujiazhijie_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_06_F_Emote.wujiazhijie_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_06.wujiazhijie_06'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_07.wujiazhijie_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_07_Montage.wujiazhijie_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_07_M_Emote.wujiazhijie_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_07_F_Emote.wujiazhijie_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_07.wujiazhijie_07'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_08.wujiazhijie_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_08_Montage.wujiazhijie_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_08_M_Emote.wujiazhijie_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_08_F_Emote.wujiazhijie_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_08.wujiazhijie_08'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "wujiazhijie9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_09.wujiazhijie_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/wujiazhijie_09_Montage.wujiazhijie_09_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/M_Face_Emote/wujiazhijie_09_M_Emote.wujiazhijie_09_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/wujiazhijie/F_Face_Emote/wujiazhijie_09_F_Emote.wujiazhijie_09_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/wujiazhijie/wujiazhijie_09.wujiazhijie_09'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "dayu1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_01.dayu_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_01_Montage.dayu_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_01_M_Emote.dayu_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_01_F_Emote.dayu_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_01.dayu_01'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "dayu2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_02.dayu_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_02_Montage.dayu_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_02_M_Emote.dayu_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_02_F_Emote.dayu_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_02.dayu_02'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "dayu3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_03.dayu_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_03_Montage.dayu_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_03_M_Emote.dayu_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_03_F_Emote.dayu_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_03.dayu_03'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "dayu4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_04.dayu_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_04_Montage.dayu_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_04_M_Emote.dayu_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_04_F_Emote.dayu_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_04.dayu_04'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "dayu5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_05.dayu_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_05_Montage.dayu_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_05_M_Emote.dayu_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_05_F_Emote.dayu_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_05.dayu_05'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "dayu6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_06.dayu_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/dayu_06_Montage.dayu_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/M_Face_Emote/dayu_06_M_Emote.dayu_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Dayu/F_Face_Emote/dayu_06_F_Emote.dayu_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dayu/dayu_06.dayu_06'",
+		"BarCount": 4,
+		"BPM": 70
+	},
+	{
+		"Name": "yiluxiangbei1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_01.A_yiluxiangbei_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_01_Montage.A_yiluxiangbei_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_01_M_Emote.yiluxiangbei_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_01_F_Emote.yiluxiangbei_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_01.yiluxiangbei_01'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "yiluxiangbei2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_02.A_yiluxiangbei_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_02_Montage.A_yiluxiangbei_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_02_M_Emote.yiluxiangbei_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_02_F_Emote.yiluxiangbei_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_02.yiluxiangbei_02'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "yiluxiangbei3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_03.A_yiluxiangbei_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_03_Montage.A_yiluxiangbei_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_03_M_Emote.yiluxiangbei_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_03_F_Emote.yiluxiangbei_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_03.yiluxiangbei_03'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "yiluxiangbei4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_04.A_yiluxiangbei_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_04_Montage.A_yiluxiangbei_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_04_M_Emote.yiluxiangbei_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_04_F_Emote.yiluxiangbei_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_04.yiluxiangbei_04'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "yiluxiangbei5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_05.A_yiluxiangbei_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_05_Montage.A_yiluxiangbei_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_05_M_Emote.yiluxiangbei_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_05_F_Emote.yiluxiangbei_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_05.yiluxiangbei_05'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "yiluxiangbei6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_06.A_yiluxiangbei_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/A_yiluxiangbei_06_Montage.A_yiluxiangbei_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/M_Face_Emote/yiluxiangbei_06_M_Emote.yiluxiangbei_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/yiluxiangbei/F_Face_Emote/yiluxiangbei_06_F_Emote.yiluxiangbei_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/yiluxiangbei/yiluxiangbei_06.yiluxiangbei_06'",
+		"BarCount": 4,
+		"BPM": 67
+	},
+	{
+		"Name": "dengnixiake1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_01.A_dengnixiake_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_01_Montage.A_dengnixiake_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_01_M_Emote.dengnixiake_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_01_F_Emote.dengnixiake_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_01.dengnixiake_01'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_02.A_dengnixiake_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_02_Montage.A_dengnixiake_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_02_M_Emote.dengnixiake_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_02_F_Emote.dengnixiake_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_02.dengnixiake_02'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_03.A_dengnixiake_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_03_Montage.A_dengnixiake_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_03_M_Emote.dengnixiake_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_03_F_Emote.dengnixiake_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_03.dengnixiake_03'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_04.A_dengnixiake_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_04_Montage.A_dengnixiake_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_04_M_Emote.dengnixiake_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_04_F_Emote.dengnixiake_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_04.dengnixiake_04'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_05.A_dengnixiake_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_05_Montage.A_dengnixiake_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_05_M_Emote.dengnixiake_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_05_F_Emote.dengnixiake_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_05.dengnixiake_05'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_06.A_dengnixiake_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_06_Montage.A_dengnixiake_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_06_M_Emote.dengnixiake_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_06_F_Emote.dengnixiake_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_06.dengnixiake_06'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_07.A_dengnixiake_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_07_Montage.A_dengnixiake_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_07_M_Emote.dengnixiake_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_07_F_Emote.dengnixiake_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_07.dengnixiake_07'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "dengnixiake8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_08.A_dengnixiake_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/A_dengnixiake_08_Montage.A_dengnixiake_08_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/M_Face_Emote/dengnixiake_08_M_Emote.dengnixiake_08_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/dengnixiake/F_Face_Emote/dengnixiake_08_F_Emote.dengnixiake_08_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/dengnixiake/dengnixiake_08.dengnixiake_08'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "woxihuanni1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_01.A_woxihuanni_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_01_Montage.A_woxihuanni_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/M_Face_Emote/A_M_woxihuanni_01_Emote.A_M_woxihuanni_01_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/F_Face_Emote/A_F_woxihuanni_01_Emote.A_F_woxihuanni_01_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/woxihuanni/woxihuanni_01.woxihuanni_01'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "woxihuanni2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_02.A_woxihuanni_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_02_Montage.A_woxihuanni_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/M_Face_Emote/A_M_woxihuanni_02_Emote.A_M_woxihuanni_02_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/F_Face_Emote/A_F_woxihuanni_02_Emote.A_F_woxihuanni_02_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/woxihuanni/woxihuanni_02.woxihuanni_02'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "woxihuanni3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_03.A_woxihuanni_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_03_Montage.A_woxihuanni_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/M_Face_Emote/A_M_woxihuanni_03_Emote.A_M_woxihuanni_03_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/F_Face_Emote/A_F_woxihuanni_03_Emote.A_F_woxihuanni_03_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/woxihuanni/woxihuanni_03.woxihuanni_03'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "woxihuanni4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_04.A_woxihuanni_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_04_Montage.A_woxihuanni_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/M_Face_Emote/A_M_woxihuanni_04_Emote.A_M_woxihuanni_04_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/F_Face_Emote/A_F_woxihuanni_04_Emote.A_F_woxihuanni_04_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/woxihuanni/woxihuanni_04.woxihuanni_04'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "woxihuanni5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_05.A_woxihuanni_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/A_woxihuanni_05_Montage.A_woxihuanni_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/M_Face_Emote/A_M_woxihuanni_05_Emote.A_M_woxihuanni_05_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/woxihuanni/F_Face_Emote/A_F_woxihuanni_05_Emote.A_F_woxihuanni_05_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/woxihuanni/woxihuanni_05.woxihuanni_05'",
+		"BarCount": 4,
+		"BPM": 128
+	},
+	{
+		"Name": "haoyunlai1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_01.A_haoyunlai_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_01_Montage.A_haoyunlai_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/M_Face_Emote/A_M_haoyunlai_01_Emote.A_M_haoyunlai_01_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/F_Face_Emote/A_F_haoyunlai_01_Emote.A_F_haoyunlai_01_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/haoyunlai/haoyunlai_01.haoyunlai_01'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "haoyunlai2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_02.A_haoyunlai_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_02_Montage.A_haoyunlai_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/M_Face_Emote/A_M_haoyunlai_02_Emote.A_M_haoyunlai_02_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/F_Face_Emote/A_F_haoyunlai_02_Emote.A_F_haoyunlai_02_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/haoyunlai/haoyunlai_02.haoyunlai_02'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "haoyunlai3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_03.A_haoyunlai_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_03_Montage.A_haoyunlai_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/M_Face_Emote/A_M_haoyunlai_03_Emote.A_M_haoyunlai_03_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/F_Face_Emote/A_F_haoyunlai_03_Emote.A_F_haoyunlai_03_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/haoyunlai/haoyunlai_03.haoyunlai_03'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "haoyunlai4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_04.A_haoyunlai_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/A_haoyunlai_04_Montage.A_haoyunlai_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/M_Face_Emote/A_M_haoyunlai_04_Emote.A_M_haoyunlai_04_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/haoyunlai/F_Face_Emote/A_F_haoyunlai_04_Emote.A_F_haoyunlai_04_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/haoyunlai/haoyunlai_04.haoyunlai_04'",
+		"BarCount": 4,
+		"BPM": 130
+	},
+	{
+		"Name": "guanfanghuida1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_01.guanfanghuida_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_01_Montage.guanfanghuida_01_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_01.guanfanghuida_01'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "guanfanghuida2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_02.guanfanghuida_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_02_Montage.guanfanghuida_02_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_02.guanfanghuida_02'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "guanfanghuida3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_03.guanfanghuida_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_03_Montage.guanfanghuida_03_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_03.guanfanghuida_03'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "guanfanghuida4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_04.guanfanghuida_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_04_Montage.guanfanghuida_04_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_04.guanfanghuida_04'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "guanfanghuida5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_05.guanfanghuida_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_05_Montage.guanfanghuida_05_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_05.guanfanghuida_05'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "guanfanghuida6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_06.guanfanghuida_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/guanfanghuida/guanfanghuida_06_Montage.guanfanghuida_06_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/guanfanghuida/guanfanghuida_06.guanfanghuida_06'",
+		"BarCount": 8,
+		"BPM": 200
+	},
+	{
+		"Name": "gunshot1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_01.GUNSHOT_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_01_Montage.GUNSHOT_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_01_M_Emote.GUNSHOT_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_01_F_Emote.GUNSHOT_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_01.gunshot_01'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_02.GUNSHOT_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_02_Montage.GUNSHOT_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_02_M_Emote.GUNSHOT_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_02_F_Emote.GUNSHOT_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_02.gunshot_02'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_03.GUNSHOT_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_03_Montage.GUNSHOT_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_03_M_Emote.GUNSHOT_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_03_F_Emote.GUNSHOT_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_03.gunshot_03'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_04.GUNSHOT_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_04_Montage.GUNSHOT_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_04_M_Emote.GUNSHOT_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_04_F_Emote.GUNSHOT_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_04.gunshot_04'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_05.GUNSHOT_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_05_Montage.GUNSHOT_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_05_M_Emote.GUNSHOT_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_05_F_Emote.GUNSHOT_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_05.gunshot_05'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_06.GUNSHOT_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_06_Montage.GUNSHOT_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_06_M_Emote.GUNSHOT_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_06_F_Emote.GUNSHOT_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_06.gunshot_06'",
+		"BarCount": 4,
+		"BPM": 135
+	},
+	{
+		"Name": "gunshot7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_07.GUNSHOT_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/GUNSHOT_07_Montage.GUNSHOT_07_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/M_Face_Emote/GUNSHOT_07_M_Emote.GUNSHOT_07_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/gunshot/F_Face_Emote/GUNSHOT_07_F_Emote.GUNSHOT_07_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/gunshot/gunshot_07.gunshot_07'",
+		"BarCount": 8,
+		"BPM": 135
+	},
+	{
+		"Name": "solo1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_01.Solo_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_01_Montage.Solo_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_01_M_Emote.solo_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_01_F_Emote.Solo_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_01.solo_01'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "solo2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_02.Solo_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_02_Montage.Solo_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_02_M_Emote.solo_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_02_F_Emote.Solo_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_02.solo_02'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "solo3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_03.Solo_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_03_Montage.Solo_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_03_M_Emote.solo_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_03_F_Emote.Solo_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_03.solo_03'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "solo4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_04.Solo_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_04_Montage.Solo_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_04_M_Emote.solo_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_04_F_Emote.Solo_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_04.solo_04'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "solo5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_05.Solo_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_05_Montage.Solo_05_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_05_M_Emote.solo_05_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_05_F_Emote.Solo_05_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_05.solo_05'",
+		"BarCount": 4,
+		"BPM": 100
+	},
+	{
+		"Name": "solo6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_06.Solo_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Solo/Solo_06_Montage.Solo_06_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/M_Face_Emote/solo_06_M_Emote.solo_06_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Solo/F_Face_Emote/Solo_06_F_Emote.Solo_06_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/solo/solo_06.solo_06'",
+		"BarCount": 6,
+		"BPM": 100
+	},
+	{
+		"Name": "xiaona1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_01.xiaona_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_01_Montage.xiaona_01_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/M_Face_Emote/Xiaona_01_M_Emote.Xiaona_01_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/F_Face_Emote/Xiaona_01_F_Emote.Xiaona_01_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiaona/xiaona_01.xiaona_01'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "xiaona2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_02.xiaona_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_02_Montage.xiaona_02_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/M_Face_Emote/Xiaona_02_M_Emote.Xiaona_02_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/F_Face_Emote/Xiaona_02_F_Emote.Xiaona_02_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiaona/xiaona_02.xiaona_02'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "xiaona3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_03.xiaona_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_03_Montage.xiaona_03_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/M_Face_Emote/Xiaona_03_M_Emote.Xiaona_03_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/F_Face_Emote/Xiaona_03_F_Emote.Xiaona_03_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiaona/xiaona_03.xiaona_03'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "xiaona4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_04.xiaona_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/xiaona_04_Montage.xiaona_04_Montage'",
+		"M_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/M_Face_Emote/Xiaona_04_M_Emote.Xiaona_04_M_Emote'",
+		"F_Head_Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/Xiaona/F_Face_Emote/Xiaona_04_F_Emote.Xiaona_04_F_Emote'",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/xiaona/xiaona_04.xiaona_04'",
+		"BarCount": 4,
+		"BPM": 74
+	},
+	{
+		"Name": "helicopter1",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_01.helicopter_01'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_01_Montage.helicopter_01_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_01.helicopter_01'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter2",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_02.helicopter_02'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_02_Montage.helicopter_02_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_02.helicopter_02'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter3",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_03.helicopter_03'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_03_Montage.helicopter_03_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_03.helicopter_03'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter4",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_04.helicopter_04'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_04_Montage.helicopter_04_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_04.helicopter_04'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter5",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_05.helicopter_05'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_05_Montage.helicopter_05_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_05.helicopter_05'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter6",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_06.helicopter_06'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_06_Montage.helicopter_06_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_06.helicopter_06'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter7",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_07.helicopter_07'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_07_Montage.helicopter_07_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_07.helicopter_07'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter8",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_08.helicopter_08'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_08_Montage.helicopter_08_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_08.helicopter_08'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter9",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_09.helicopter_09'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_09_Montage.helicopter_09_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_09.helicopter_09'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter10",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_10.helicopter_10'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_10_Montage.helicopter_10_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_10.helicopter_10'",
+		"BarCount": 4,
+		"BPM": 155
+	},
+	{
+		"Name": "helicopter11",
+		"Animation": "AnimSequence'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_11.helicopter_11'",
+		"AnimationM": "AnimMontage'/Game/DancingKing/DanceResurces/Animation/Music/helicopter/helicopter_11_Montage.helicopter_11_Montage'",
+		"M_Head_Animation": "None",
+		"F_Head_Animation": "None",
+		"Camera": "LevelSequence'/Game/DancingKing/DanceResurces/CameraLS/Music/helicopter/helicopter_11.helicopter_11'",
+		"BarCount": 4,
+		"BPM": 155
+	}
+]
